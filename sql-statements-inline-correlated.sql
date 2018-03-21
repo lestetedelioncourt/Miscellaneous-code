@@ -4,7 +4,7 @@
 
 --Inline-views/nested select statements:
 
--- Example 1f57
+-- Example 1
 SELECT b.first_name||' '||last_name AS "Broker name", q."Average share"
 FROM brokers b
 LEFT OUTER JOIN
