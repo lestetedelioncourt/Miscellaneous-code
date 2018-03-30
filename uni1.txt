@@ -1,0 +1,10 @@
+<!-- DTD document for uni.xml>
+
+<!ELEMENT university (universityname, school*)>
+<!ELEMENT universityname (#PCDATA)>
+
+<!ELEMENT school (schoolname, staff?)>
+<!ELEMENT schoolname (#PCDATA)>
+
+<!ELEMENT staff (staffname*)>
+<!ELEMENT staffname (#PCDATA)>

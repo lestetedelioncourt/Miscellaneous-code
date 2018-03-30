@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='windows-1252' ?>
+
+<!DOCTYPE university SYSTEM "uni1.dtd">
+
+<university>
+	<universityname>Westminster</universityname>
+	<school>
+		<schoolname>HSCS</schoolname>
+		<staff>
+			<staffname>Adam</staffname>
+			<staffname>Anne</staffname>
+			<staffname>John</staffname>
+		</staff>
+	</school>
+	<school>
+		<schoolname>HBS</schoolname>
+		<staff>
+			<staffname>Helen</staffname>
+			<staffname>Mike</staffname>
+		</staff>
+	</school>
+	<school>
+		<schoolname>CCI</schoolname>
+	</school>
+</university>
